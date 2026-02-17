@@ -13,4 +13,4 @@ This repository contains minimal, ready-to-run manim scenes from the videos.
 ## 2. Scenes
 
 Synthetic Aperture Radar (SAR) satellite with a mesh reflector antenna.
-![mesh reflector sat](.scenes/gifs/Sat3DScene.gif)
+![mesh reflector sat](scenes/gifs/Sat3DScene.gif)
