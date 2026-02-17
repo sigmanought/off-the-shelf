@@ -249,4 +249,4 @@ class Sat3DScene(ThreeDScene):
 
         self.set_camera_orientation(phi=75 * DEGREES, theta=0 * DEGREES, zoom=0.5)
         self.begin_ambient_camera_rotation(rate=0.4)
-        self.wait(3)
+        self.wait(5)
